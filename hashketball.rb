@@ -15,13 +15,111 @@ def game_hash
           :steals => ,
           :blocks => ,
           :slam_dunks =>
+        },
+        {
+          :player_name: => ,
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebound => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        },
+        {
+          :player_name: => ,
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebound => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        },
+        {
+          :player_name: => ,
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebound => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        },
+        {
+          :player_name: => ,
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebound => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
         }
     },
     :away => {
       :team_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
       :players => {
-
+        {
+          :player_name: => ,
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebound => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        },
+        {
+          :player_name: => ,
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebound => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        },
+        {
+          :player_name: => ,
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebound => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        },
+        {
+          :player_name: => ,
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebound => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        },
+        {
+          :player_name: => ,
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebound => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        }
       }
     }
   }
